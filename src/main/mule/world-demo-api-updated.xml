@@ -28,6 +28,6 @@ http://www.mulesoft.org/schema/mule/http http://www.mulesoft.org/schema/mule/htt
 				<fixed-frequency frequency="10" timeUnit="SECONDS"/>
 			</scheduling-strategy>
 		</scheduler>
-		<logger level="INFO" doc:name="Logger" doc:id="568c73af-c826-4408-a0b4-0c03724748d2" message="------------------ Logged ------------------"/>
+		<logger level="INFO" doc:name="Logger" doc:id="568c73af-c826-4408-a0b4-0c03724748d2" message="------------------ Logged -------------------"/>
 	</flow>
 </mule>
