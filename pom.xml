@@ -32,19 +32,19 @@
 				 
 				  
 				
-			<!-- 	<configuration>
-				      <cloudhubDeployment>
+				<configuration>
+				      <cloudHubDeployment>
 	                 <username>rrajdev</username>		
 	                 <environment>Sandbox</environment>	
 	                 <workers>1</workers>
 	                 <workerType>Micro</workerType>
 	                 <applicationName>World-demo-api-5</applicationName>
 	                 <password>Mulecc@12345</password>
-	                 <muleversion>4.4.0</muleversion>
+	                 <muleVersion>4.4.0</muleVersion>
 	                 <objectStoreV2>true</objectStoreV2>
 	                 
-				</cloudhubDeployment>
-				</configuration> -->
+				</cloudHubDeployment>
+				</configuration>
 				
 				
 				
